@@ -184,7 +184,7 @@ html {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  align-items: center;
+  /*align-items: center; */
   box-shadow: 1rem 1rem 1rem #000;
   position: relative;
   transform: rotateY(20deg) skewX(-2deg);
